@@ -1,408 +1,579 @@
 {
-  "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/manifest.json",
-  "label" : {
-    "en" : [ "All images loaded in SelmaKaina/Alchemy_Iconography project" ]
-  },
-  "type" : "Manifest",
-  "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "width" : 750,
-    "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif/canvas/",
-    "label" : {
-      "none" : [ "7_Stradano_alchemist_iiif" ]
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in SelmaKaina/IIIF_Alchemy_Iconography project"
+        ]
     },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 24,
-              "height" : 31
-            }, {
-              "width" : 47,
-              "height" : 62
-            }, {
-              "width" : 94,
-              "height" : 124
-            }, {
-              "width" : 188,
-              "height" : 248
-            }, {
-              "width" : 375,
-              "height" : 496
-            }, {
-              "width" : 750,
-              "height" : 991
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 750,
-            "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 991
-          } ],
-          "format" : "image/jpeg",
-          "width" : 750,
-          "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 991
+    "items": [
+        {
+            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "6_Bruegel_Alchemist_iiif"
+                ]
+            },
+            "height": 2249,
+            "width": 3109,
+            "items": [
+                {
+                    "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 98,
+                                                "height": 71
+                                            },
+                                            {
+                                                "width": 195,
+                                                "height": 141
+                                            },
+                                            {
+                                                "width": 389,
+                                                "height": 282
+                                            },
+                                            {
+                                                "width": 778,
+                                                "height": 563
+                                            },
+                                            {
+                                                "width": 1555,
+                                                "height": 1125
+                                            },
+                                            {
+                                                "width": 3109,
+                                                "height": 2249
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3109,
+                                        "@id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2249,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif/canvas/"
-      } ]
-    } ],
-    "height" : 991
-  }, {
-    "width" : 3109,
-    "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/canvas/",
-    "label" : {
-      "none" : [ "6_Bruegel_Alchemist_iiif" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 98,
-              "height" : 71
-            }, {
-              "width" : 195,
-              "height" : 141
-            }, {
-              "width" : 389,
-              "height" : 282
-            }, {
-              "width" : 778,
-              "height" : 563
-            }, {
-              "width" : 1555,
-              "height" : 1125
-            }, {
-              "width" : 3109,
-              "height" : 2249
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 3109,
-            "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 2249
-          } ],
-          "format" : "image/jpeg",
-          "width" : 3109,
-          "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 2249
+        {
+            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/2_CLAVIS_2_iiif/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "2_CLAVIS_2_iiif"
+                ]
+            },
+            "height": 1393,
+            "width": 1132,
+            "items": [
+                {
+                    "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/2_CLAVIS_2_iiif/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/2_CLAVIS_2_iiif/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 36,
+                                                "height": 44
+                                            },
+                                            {
+                                                "width": 71,
+                                                "height": 88
+                                            },
+                                            {
+                                                "width": 142,
+                                                "height": 175
+                                            },
+                                            {
+                                                "width": 283,
+                                                "height": 349
+                                            },
+                                            {
+                                                "width": 566,
+                                                "height": 697
+                                            },
+                                            {
+                                                "width": 1132,
+                                                "height": 1393
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1132,
+                                        "@id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1393,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/2_CLAVIS_2_iiif/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/canvas/"
-      } ]
-    } ],
-    "height" : 2249
-  }, {
-    "width" : 3968,
-    "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif/canvas/",
-    "label" : {
-      "none" : [ "5_Rembrandt_iiif" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 124,
-              "height" : 163
-            }, {
-              "width" : 248,
-              "height" : 325
-            }, {
-              "width" : 496,
-              "height" : 649
-            }, {
-              "width" : 992,
-              "height" : 1298
-            }, {
-              "width" : 1984,
-              "height" : 2595
-            }, {
-              "width" : 3968,
-              "height" : 5189
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 3968,
-            "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 5189
-          } ],
-          "format" : "image/jpeg",
-          "width" : 3968,
-          "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 5189
+        {
+            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/1_Alchemical_vessel_iiif/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "1_Alchemical_vessel_iiif"
+                ]
+            },
+            "height": 1994,
+            "width": 1207,
+            "items": [
+                {
+                    "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/1_Alchemical_vessel_iiif/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/1_Alchemical_vessel_iiif/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 38,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 76,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 151,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 302,
+                                                "height": 499
+                                            },
+                                            {
+                                                "width": 604,
+                                                "height": 997
+                                            },
+                                            {
+                                                "width": 1207,
+                                                "height": 1994
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1207,
+                                        "@id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1994,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/1_Alchemical_vessel_iiif/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif/canvas/"
-      } ]
-    } ],
-    "height" : 5189
-  }, {
-    "width" : 3832,
-    "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif/canvas/",
-    "label" : {
-      "none" : [ "4_Muter_liber_1_iiif" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 120,
-              "height" : 157
-            }, {
-              "width" : 240,
-              "height" : 313
-            }, {
-              "width" : 479,
-              "height" : 626
-            }, {
-              "width" : 958,
-              "height" : 1251
-            }, {
-              "width" : 1916,
-              "height" : 2501
-            }, {
-              "width" : 3832,
-              "height" : 5001
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 3832,
-            "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 5001
-          } ],
-          "format" : "image/jpeg",
-          "width" : 3832,
-          "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 5001
+        {
+            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/7_Stradano_alchemist_iiif/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "7_Stradano_alchemist_iiif"
+                ]
+            },
+            "height": 991,
+            "width": 750,
+            "items": [
+                {
+                    "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/7_Stradano_alchemist_iiif/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/7_Stradano_alchemist_iiif/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 24,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 47,
+                                                "height": 62
+                                            },
+                                            {
+                                                "width": 94,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 188,
+                                                "height": 248
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 496
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 991
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 750,
+                                        "@id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 991,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/7_Stradano_alchemist_iiif/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif/canvas/"
-      } ]
-    } ],
-    "height" : 5001
-  }, {
-    "width" : 1300,
-    "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/canvas/",
-    "label" : {
-      "none" : [ "3_Atalanta_fugiens_iiif" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 41,
-              "height" : 54
-            }, {
-              "width" : 82,
-              "height" : 107
-            }, {
-              "width" : 163,
-              "height" : 214
-            }, {
-              "width" : 325,
-              "height" : 427
-            }, {
-              "width" : 650,
-              "height" : 854
-            }, {
-              "width" : 1300,
-              "height" : 1708
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 1300,
-            "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 1708
-          } ],
-          "format" : "image/jpeg",
-          "width" : 1300,
-          "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 1708
+        {
+            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "3_Atalanta_fugiens_iiif"
+                ]
+            },
+            "height": 1708,
+            "width": 1300,
+            "items": [
+                {
+                    "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 41,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 82,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 163,
+                                                "height": 214
+                                            },
+                                            {
+                                                "width": 325,
+                                                "height": 427
+                                            },
+                                            {
+                                                "width": 650,
+                                                "height": 854
+                                            },
+                                            {
+                                                "width": 1300,
+                                                "height": 1708
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1300,
+                                        "@id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1708,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/canvas/"
-      } ]
-    } ],
-    "height" : 1708
-  }, {
-    "width" : 1132,
-    "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/canvas/",
-    "label" : {
-      "none" : [ "2_CLAVIS_2_iiif" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 36,
-              "height" : 44
-            }, {
-              "width" : 71,
-              "height" : 88
-            }, {
-              "width" : 142,
-              "height" : 175
-            }, {
-              "width" : 283,
-              "height" : 349
-            }, {
-              "width" : 566,
-              "height" : 697
-            }, {
-              "width" : 1132,
-              "height" : 1393
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 1132,
-            "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 1393
-          } ],
-          "format" : "image/jpeg",
-          "width" : 1132,
-          "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 1393
+        {
+            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/4_Muter_liber_1_iiif/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "4_Muter_liber_1_iiif"
+                ]
+            },
+            "height": 5001,
+            "width": 3832,
+            "items": [
+                {
+                    "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/4_Muter_liber_1_iiif/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/4_Muter_liber_1_iiif/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 120,
+                                                "height": 157
+                                            },
+                                            {
+                                                "width": 240,
+                                                "height": 313
+                                            },
+                                            {
+                                                "width": 479,
+                                                "height": 626
+                                            },
+                                            {
+                                                "width": 958,
+                                                "height": 1251
+                                            },
+                                            {
+                                                "width": 1916,
+                                                "height": 2501
+                                            },
+                                            {
+                                                "width": 3832,
+                                                "height": 5001
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3832,
+                                        "@id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5001,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/4_Muter_liber_1_iiif/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/canvas/"
-      } ]
-    } ],
-    "height" : 1393
-  }, {
-    "width" : 1207,
-    "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/canvas/",
-    "label" : {
-      "none" : [ "1_Alchemical_vessel_iiif" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 38,
-              "height" : 63
-            }, {
-              "width" : 76,
-              "height" : 125
-            }, {
-              "width" : 151,
-              "height" : 250
-            }, {
-              "width" : 302,
-              "height" : 499
-            }, {
-              "width" : 604,
-              "height" : 997
-            }, {
-              "width" : 1207,
-              "height" : 1994
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 1207,
-            "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 1994
-          } ],
-          "format" : "image/jpeg",
-          "width" : 1207,
-          "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 1994
-        },
-        "target" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/canvas/"
-      } ]
-    } ],
-    "height" : 1994
-  } ]
+        {
+            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/5_Rembrandt_iiif/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "5_Rembrandt_iiif"
+                ]
+            },
+            "height": 5189,
+            "width": 3968,
+            "items": [
+                {
+                    "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/5_Rembrandt_iiif/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/5_Rembrandt_iiif/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 124,
+                                                "height": 163
+                                            },
+                                            {
+                                                "width": 248,
+                                                "height": 325
+                                            },
+                                            {
+                                                "width": 496,
+                                                "height": 649
+                                            },
+                                            {
+                                                "width": 992,
+                                                "height": 1298
+                                            },
+                                            {
+                                                "width": 1984,
+                                                "height": 2595
+                                            },
+                                            {
+                                                "width": 3968,
+                                                "height": 5189
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3968,
+                                        "@id": "https://SelmaKaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5189,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://SelmaKaina.github.io/IIIF_Alchemy_Iconography/images/5_Rembrandt_iiif/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
