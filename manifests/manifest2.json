@@ -63,12 +63,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/full/full/0/default.jpg",
+          "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/1_Alchemical_vessel_iiif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif",
+            "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/1_Alchemical_vessel_iiif",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
           "height" : 1994,
@@ -77,7 +77,7 @@
         "on" : "http://c4b95b48-310e-47d7-ad10-c65678789528"
       } ],
       "otherContent" : [ {
-        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Opposites_annotations",
+        "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/annotations/Opposites_annotations",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for the meeting of opposites"
       } ],
@@ -110,12 +110,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/full/full/0/default.jpg",
+          "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/2_CLAVIS_2_iiif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif",
+            "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/2_CLAVIS_2_iiif",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
           "height" : 1393,
@@ -124,7 +124,7 @@
         "on" : "http://cf996f16-354b-4018-8606-fbe330482232"
       } ],
       "otherContent" : [ {
-        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Hermes_annotations",
+        "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/annotations/Hermes_annotations",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for Hermes"
       } ],
@@ -157,12 +157,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/full/full/0/default.jpg",
+          "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/3_Atalanta_fugiens_iiif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif",
+            "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/3_Atalanta_fugiens_iiif",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
           "height" : 1708,
@@ -171,7 +171,7 @@
         "on" : "http://aba2f013-1faf-43d1-990e-900536c63ef3"
       } ],
       "otherContent" : [ {
-        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/ouroboros_annotations",
+        "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/annotations/ouroboros_annotations",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for Ouroboros"
       } ],
@@ -204,12 +204,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif/full/full/0/default.jpg",
+          "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/4_Muter_liber_1_iiif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif",
+            "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/4_Muter_liber_1_iiif",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
           "height" : 5001,
@@ -218,7 +218,7 @@
         "on" : "http://1dacb807-b14b-4b93-b55c-c1178a30ded3"
       } ],
       "otherContent" : [ {
-        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Mutus_Liber_annotations",
+        "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/annotations/Mutus_Liber_annotations",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for Mutus Liber"
       } ],
@@ -248,12 +248,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif/full/full/0/default.jpg",
+          "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/5_Rembrandt_iiif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif",
+            "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/5_Rembrandt_iiif",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
           "height" : 5189,
@@ -262,7 +262,7 @@
         "on" : "http://269ff0c2-f0e7-4d00-9387-575ed2863440"
       } ],
       "otherContent" : [ {
-        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Rembrandt_alchimiste_annotations",
+        "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/annotations/Rembrandt_alchimiste_annotations",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for Rembrandt"
       } ],
@@ -292,12 +292,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/full/full/0/default.jpg",
+          "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif",
+            "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/6_Bruegel_Alchemist_iiif",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
           "height" : 2249,
@@ -306,7 +306,7 @@
         "on" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4"
       } ],
       "otherContent" : [ {
-        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Bruegel_annotations",
+        "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/annotations/Bruegel_annotations",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for Bruegel"
       } ],
@@ -336,12 +336,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif/full/full/0/default.jpg",
+          "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/7_Stradano_alchemist_iiif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://selmakaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif",
+            "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/images/7_Stradano_alchemist_iiif",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
           "height" : 991,
@@ -350,7 +350,7 @@
         "on" : "http://ea999e08-4fbc-459b-bcf7-1e5d54ae4e16"
       } ],
       "otherContent" : [ {
-        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Jan_Stradanus_annotations",
+        "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/annotations/Jan_Stradanus_annotations",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for Jan Stradanus"
       } ],
