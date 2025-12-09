@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest.json",
+  "@id" : "https://github.com/SelmaKaina/IIIF_Alchemy_Iconography/blob/main/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Alchemy Unveiled with IIIF",
   "service" : {
